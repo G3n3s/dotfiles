@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = tobias.stuenkel@gmx.de
+	name = Tobias Stuenkel
